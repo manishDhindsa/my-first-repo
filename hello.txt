@@ -13,3 +13,7 @@ am
 editing 
 this
 file
+I
+am
+Staging
+Changes

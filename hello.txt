@@ -1,0 +1,10 @@
+Hello
+This
+is 
+my
+first
+git
+version
+control
+repository
+file
